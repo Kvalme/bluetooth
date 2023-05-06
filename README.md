@@ -8,9 +8,11 @@ kernel6.2 - based on linux kernel 6.1.7
 
 Clone repo and run following commands:
 
+```
 make
 sudo rmmod btusb
 sudo insmod ./btusb
+```
 
 From time to time this sequence results in following error:
 
