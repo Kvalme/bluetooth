@@ -1,8 +1,9 @@
 # bluetooth
 Add support to bluetooth on 0489:e0e4 Foxconn / Hon Hai Wireless_Device. 
 
-master branch based on linux kernel 6.3
-kernel6.2 - based on linux kernel 6.1.7
+`master` branch based on linux kernel 6.3
+
+`kernel6.2` tag - based on linux kernel 6.1.7
 
 # Usage
 
